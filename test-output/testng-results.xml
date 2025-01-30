@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-26T02:27:47 IST" name="Suite" finished-at="2025-01-26T02:27:47 IST" duration-ms="205">
+  <suite started-at="2025-01-30T17:38:10 IST" name="Suite" finished-at="2025-01-30T17:38:10 IST" duration-ms="197">
     <groups>
     </groups>
-    <test started-at="2025-01-26T02:27:47 IST" name="Test" finished-at="2025-01-26T02:27:47 IST" duration-ms="205">
+    <test started-at="2025-01-30T17:38:10 IST" name="Test" finished-at="2025-01-30T17:38:10 IST" duration-ms="197">
       <class name="rahulshettyacademygit.RESTAPITest">
-        <test-method signature="deleteTwitter()[pri:0, instance:rahulshettyacademygit.RESTAPITest@750e2b97]" started-at="2025-01-26T02:27:47 IST" name="deleteTwitter" finished-at="2025-01-26T02:27:47 IST" duration-ms="1" status="PASS">
+        <test-method signature="deleteTwitter()[pri:0, instance:rahulshettyacademygit.RESTAPITest@38d8f54a]" started-at="2025-01-30T17:38:10 IST" name="deleteTwitter" finished-at="2025-01-30T17:38:10 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteTwitter -->
-        <test-method signature="postJira()[pri:0, instance:rahulshettyacademygit.RESTAPITest@750e2b97]" started-at="2025-01-26T02:27:47 IST" name="postJira" finished-at="2025-01-26T02:27:47 IST" duration-ms="4" status="PASS">
+        <test-method signature="postJira()[pri:0, instance:rahulshettyacademygit.RESTAPITest@38d8f54a]" started-at="2025-01-30T17:38:10 IST" name="postJira" finished-at="2025-01-30T17:38:10 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postJira -->
       </class> <!-- rahulshettyacademygit.RESTAPITest -->
       <class name="rahulshettyacademygit.AppiumTest">
-        <test-method signature="iOSApp()[pri:0, instance:rahulshettyacademygit.AppiumTest@3e27aa33]" started-at="2025-01-26T02:27:47 IST" name="iOSApp" finished-at="2025-01-26T02:27:47 IST" duration-ms="6" status="PASS">
+        <test-method signature="iOSApp()[pri:0, instance:rahulshettyacademygit.AppiumTest@49e53c76]" started-at="2025-01-30T17:38:10 IST" name="iOSApp" finished-at="2025-01-30T17:38:10 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- iOSApp -->
-        <test-method signature="nativeAPPAndroid()[pri:0, instance:rahulshettyacademygit.AppiumTest@3e27aa33]" started-at="2025-01-26T02:27:47 IST" name="nativeAPPAndroid" finished-at="2025-01-26T02:27:47 IST" duration-ms="8" status="PASS">
+        <test-method signature="nativeAPPAndroid()[pri:0, instance:rahulshettyacademygit.AppiumTest@49e53c76]" started-at="2025-01-30T17:38:10 IST" name="nativeAPPAndroid" finished-at="2025-01-30T17:38:10 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nativeAPPAndroid -->
       </class> <!-- rahulshettyacademygit.AppiumTest -->
       <class name="rahulshettyacademygit.SeleniumTest">
-        <test-method signature="BrowserAutomation()[pri:0, instance:rahulshettyacademygit.SeleniumTest@41a0aa7d]" started-at="2025-01-26T02:27:47 IST" name="BrowserAutomation" finished-at="2025-01-26T02:27:47 IST" duration-ms="27" status="PASS">
+        <test-method signature="BrowserAutomation()[pri:0, instance:rahulshettyacademygit.SeleniumTest@293a5bf6]" started-at="2025-01-30T17:38:10 IST" name="BrowserAutomation" finished-at="2025-01-30T17:38:10 IST" duration-ms="44" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserAutomation -->
-        <test-method signature="elementUI()[pri:0, instance:rahulshettyacademygit.SeleniumTest@41a0aa7d]" started-at="2025-01-26T02:27:47 IST" name="elementUI" finished-at="2025-01-26T02:27:47 IST" duration-ms="10" status="PASS">
+        <test-method signature="elementUI()[pri:0, instance:rahulshettyacademygit.SeleniumTest@293a5bf6]" started-at="2025-01-30T17:38:10 IST" name="elementUI" finished-at="2025-01-30T17:38:10 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- elementUI -->
