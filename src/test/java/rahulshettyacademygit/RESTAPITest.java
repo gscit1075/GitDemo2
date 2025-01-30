@@ -7,8 +7,9 @@ public class RESTAPITest {
 	
 	public void postJira()
 	{
-		System.out.println("This is the ostJira");
-		
+		System.out.println("This is the PostJira");
+		System.out.println("This is the PostJira2");
+		System.out.println("This is the PostJira3");
 	}
 	
 	@Test
