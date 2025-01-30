@@ -9,6 +9,7 @@ public class AppiumTest {
 	public void nativeAPPAndroid()
 	{
 		System.out.println("nativeAPPAndroid");
+		System.out.println("nativeAPPAndroid");
 		
 	}
 	
@@ -16,10 +17,19 @@ public class AppiumTest {
 	
 	public void iOSApp()
 	{
-		System.out.println("diOSApp");
+		System.out.println("iOSApp");
+		System.out.println("iOSApp");
+		System.out.println("iOSApp");
 	}
 
+	@Test
 	
+	public void kindleApp()
+	{
+		System.out.println("kindleApp");
+		System.out.println("kindleApp");
+		}
+
 	
 
 }
