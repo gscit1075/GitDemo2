@@ -10,6 +10,7 @@ public class RESTAPITest {
 		System.out.println("This is the PostJira");
 		System.out.println("This is the PostJira2");
 		System.out.println("This is the PostJira3");
+		System.out.println("This is the PostJira4");
 	}
 	
 	@Test
@@ -17,6 +18,7 @@ public class RESTAPITest {
 	public void deleteTwitter()
 	{
 		System.out.println("delete Twitter");
+		System.out.println("delete Twitter2");
 	}
 
 }
